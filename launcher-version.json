@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "installerUrl": "https://github.com/ivang241/update-server/releases/download/v2.3.0/Totosafio-2-Launcher-Setup-2.3.0.exe",
+  "installerUrl": "https://github.com/ivang241/update-server/releases/download/v3.0.0/Totosafio.2.Launcher.Setup.3.0.0.exe",
   "mandatory": false,
   "changelog": [
     "Nuevo sistema de actualización automática",
